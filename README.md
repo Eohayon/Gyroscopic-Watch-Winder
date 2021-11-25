@@ -10,3 +10,5 @@ The mechanical assembly was designed entirely in SolidWorks. The components were
 
 
 The electrical components, include a stepper motor, an on/off button, and a bluetooth module. They are programmed via an Arduino Nano. The winding settings are programmable via an accompanying iOS app.
+
+<vid src="https://github.com/Eohayon/Gyroscopic-Watch-Winder/blob/main/VIDEO.mov">
